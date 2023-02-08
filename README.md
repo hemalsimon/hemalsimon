@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, R**
 
-- 📫 How to reach me **hemalsimon@gmail.com**
+- 📫 How to reach me at **hemalsimon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
